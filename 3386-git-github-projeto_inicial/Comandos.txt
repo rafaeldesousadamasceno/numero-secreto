@@ -1,0 +1,8 @@
+Acessando minha pasta do windows com os projetos para WSL
+    /mnt/c/Users/F8369318/OneDrive\ -\ Banco\ do\ Brasil\ S.A/Área\ de\ Trabalho/
+
+Transforma a pasta atual em um repositório GIT
+    git init
+
+Adicionando TODOS os arquivos de um projeto dentro do GIT
+    git add .
