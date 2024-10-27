@@ -6,3 +6,4 @@ Transforma a pasta atual em um repositório GIT
 
 Adicionando TODOS os arquivos de um projeto dentro do GIT
     git add .
+
