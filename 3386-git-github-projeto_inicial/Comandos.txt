@@ -7,3 +7,4 @@ Transforma a pasta atual em um repositório GIT
 Adicionando TODOS os arquivos de um projeto dentro do GIT
     git add .
 
+git status é uma ferramenta indispensável para qualquer desenvolvedor que utiliza Git. Ele permite monitorar as alterações no repositório, identificar o estado dos arquivos e tomar decisões de gerenciamento de commits de forma eficiente.
